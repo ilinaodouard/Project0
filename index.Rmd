@@ -1,0 +1,41 @@
+---
+title: "Ilina Odouard"
+image: "Odouard_Ilina.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/ilina-odouard/"
+  - label: Twitter
+    url: "https://x.com/ilinaodouard"
+  - label: GitHub
+    url: "https://github.com/ilinaodouard"
+  - label: Email
+    url: "mailto:iodouar1@jhu.edu"
+output:
+  postcards::trestles
+---
+
+## Bio
+
+Ilina Odouard is a health services research Ph.D. student in the Department of Health Policy and Management at the Johns Hopkins Bloomberg School of Public Health. Her research investigates regulatory and payment strategies to promote pharmaceutical affordability and equitable access while managing spending and maintaining adequate evidence quality. Currently, her research focuses on Medicare and Medicaid payment strategies for cell and gene therapies and investment in pharmaceutical innovation. Her work has been published in JAMA, JAMA Neurology, the Journal of Managed Care and Specialty Pharmacy, Value in Health, Health Affairs Scholar, and O&G Open. Prior to becoming an academic researcher, she was a life sciences and healthcare strategy consultant in both the United States and Australia.
+
+## Education
+
+**Johns Hopkins Bloomberg School of Public Health** \| Baltimore, USA
+
+Ph.D. in Health Services Research \| August 2024 - Present
+
+M.P.H. \| June 2022 - May 2023
+
+**Barnard College of Columbia University** \| New York, USA
+
+B.A. in Neuroscience & Behavior \| September 2014 - May 2018
+
+## Experience
+
+**Johns Hopkins Drug Access and Affordability Initiative** \| Faculty Research Associate \| Remote \| May 2023 - August 2024
+
+**Blue Matter Consulting** \| Senior Consultant \| New York, USA \| September 2021 - May 2022
+
+**Health Technology Analysts** \| Senior Consultant \| Sydney, Australia \| March 2020 - May 2021
+
+**IQVIA Consulting Services** \| Associate \| New York, USA \| August 2018 - October 2019
