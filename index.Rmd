@@ -2,6 +2,8 @@
 title: "Ilina Odouard"
 image: "Odouard_Ilina.jpeg"
 links:
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=ow08vHwAAAAJ&hl=en"
   - label: LinkedIn
     url: "https://www.linkedin.com/in/ilina-odouard/"
   - label: Twitter
@@ -39,3 +41,25 @@ B.A. in Neuroscience & Behavior \| September 2014 - May 2018
 **Health Technology Analysts** \| Senior Consultant \| Sydney, Australia \| March 2020 - May 2021
 
 **IQVIA Consulting Services** \| Associate \| New York, USA \| August 2018 - October 2019
+
+## Skills
+
+Claims data analysis, programming in R and Stata, literature review
+
+## Publications
+
+Markell J, **Odouard IC**, Anderson GF, DiStefano MJ. Consumer Perceptions of Safety Information in Direct-to-Consumer Print Advertisements for Alzheimer Drugs. *JAMA Netw Open.* 2024;7(8):e2431110. doi:10.1001/jamanetworkopen.2024.31110
+
+Odouard IC, Ballreich J, Lee B, Socal MP. Clinical Evidence Supporting FDA Approval of Gene and RNA Therapies for Rare Inherited Conditions. *Pediatr Drugs*. 2024. https://doi.org/10.1007/s40272-024-00645-7
+
+**Odouard IC**, Guadamuz JS, Chakraborty A, Alexander GC, Qato DM. Induced Abortion and Out-of-State Travel Among Insured Women Before and After the Dobbs v. Jackson Women's Health Organization Decision. *O&G Open.* 2024;1(2):p 016. doi: 10.1097/og9.0000000000000016
+
+**Odouard IC**, Ballreich J, Socal MP. Medicaid spending and utilization of gene and RNA therapies for rare inherited conditions. *Health Affairs Scholar*. 2024;2(5). doi: https://doi.org/10.1093/haschl/qxae051
+
+Socal MP, **Odouard IC**, Kharrazi H. Ownership and Interoperability Challenges of Alzheimer Monoclonal Antibody Registries. *JAMA Neurol.* 2024;81(2):109–110. doi:10.1001/jamaneurol.2023.4675
+
+**Odouard IC**, Anderson GF, Alexander GC, Ballreich J. Sociodemographic and spending characteristics of Medicare beneficiaries taking prescription drugs subject to price negotiations. *Journal of Managed Care & Specialty Pharmacy*. Published online Dec 23, 2023. doi:10.18553/jmcp.2023.23153
+
+**Odouard IC**, Socal MP, Anderson GF. Role of Registries in Medicare Coverage of New Alzheimer Disease Drugs. *JAMA.* 2023;330(14):1331–1332. doi:10.1001/jama.2023.17131
+
+DiStefano MJ, Levy JF, **Odouard IC**, Anderson GF. Estimated savings from using added therapeutic benefit and therapeutic reference pricing in United States Medicare drug price negotiations. *Value in Health*. 2023. doi:10.1016/j.jval.2023.08.004
